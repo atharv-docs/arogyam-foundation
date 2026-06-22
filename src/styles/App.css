@@ -1136,7 +1136,7 @@ a:hover { color: var(--primary-dark); }
 
 .chat-header-text p {
   font-size: 0.75rem;
-  color: var(--primary);
+  color: white;
   margin: 0;
   font-weight: 500;
 }
